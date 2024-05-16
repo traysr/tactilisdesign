@@ -1,0 +1,21 @@
+{
+  "Name": "LA",
+  "Version": 0.1,
+  "Author": "iA",
+  "ShortDescription": "Back up, back up...",
+  "LongDescription": "...‘cause it’s on.\n- Loud, Bold, Freaky.\n- Colorful, dynamic, young\n- Dynamic color background\n- Default white on color\n- Default font: Roboto Slab",
+  "Css": "la.css",
+  "TitleFont": "Roboto Slab",
+  "BodyFont": "Roboto Slab",
+  "CssClasses": "variable-size-headings",
+  "LayoutExamples":[
+   {
+        "Name": "Title (H1) and Background",
+        "Markdown": "/Theme/image2.jpg\nBackground: true\nfilter: darken\n\n# TITLE\n#### with background",
+   },
+   {
+        "Name": "Title (H2) and Background",
+        "Markdown": "/Theme/image2.jpg\nBackground: true\nfilter: darken\n\n## SUBTITLE\n#### with background",
+   }
+]
+}

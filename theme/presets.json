@@ -1,0 +1,41 @@
+{
+  "Presets": [
+    {
+      "Name": "Default",
+      "TitleFont": "Roboto Slab",
+      "BodyFont": "Roboto Slab",
+      "Appearance" : "light",
+      "DarkBodyTextColor": "#FFFF00",
+      "LightBodyTextColor": "#FFFF00",
+      "DarkTitleTextColor": "#FFFF00",
+      "LightTitleTextColor": "#FFFF00",
+      "DarkBackgroundColor": "transparent",
+      "LightBackgroundColor": "transparent",
+      "DarkAccent1": "#fff",
+      "LightAccent1": "#fff",
+      "DarkFrameColor" : "#000000",
+      "LightFrameColor" : "#000000",
+      "Accent1": "#f94144",
+      "Accent2": "#43aa8b",
+      "Accent3": "#f9c74f",
+      "Accent4": "#90be6d",
+      "Accent5": "#f8961e",
+      "Accent6": "#577590",
+      "LightBgGradient":[
+          "#FF08A1",
+          "#FF3852",
+          "#FF5A19"
+      ],
+  "DarkBgGradient":[
+          "#00C2FF",
+          "#03E1D4",
+          "#18C993"
+      ]
+    }
+  ]
+}
+
+
+
+
+
