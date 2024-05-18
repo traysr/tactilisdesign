@@ -2,39 +2,40 @@
   "Presets": [
     {
       "Name": "Default",
-      "TitleFont": "Noto Serif",
-      "BodyFont": "Noto Serif",
-      "DarkBodyTextColor": "#000",
-      "LightBodyTextColor": "#FFF",
-      "DarkTitleTextColor": "#000",
-      "LightTitleTextColor": "#FFF",
-      "DarkBackgroundColor": "#000",
-      "LightBackgroundColor": "#FFF",
+      "TitleFont": "Roboto Slab",
+      "BodyFont": "Roboto Slab",
       "Appearance" : "light",
-      "Accent1": "#FF3333",
+      "DarkBodyTextColor": "#FFFF00",
+      "LightBodyTextColor": "#FFFF00",
+      "DarkTitleTextColor": "#FFFF00",
+      "LightTitleTextColor": "#FFFF00",
+      "DarkBackgroundColor": "transparent",
+      "LightBackgroundColor": "transparent",
+      "DarkAccent1": "#fff",
+      "LightAccent1": "#fff",
+      "DarkFrameColor" : "#000000",
+      "LightFrameColor" : "#000000",
+      "Accent1": "#f94144",
       "Accent2": "#43aa8b",
       "Accent3": "#f9c74f",
       "Accent4": "#90be6d",
       "Accent5": "#f8961e",
-      "Accent6": "#577590"
-    },
-    {
-      "Name": "Dark",
-      "TitleFont": "Noto Serif",
-      "BodyFont": "Noto Serif",
-      "DarkBodyTextColor": "#000",
-      "LightBodyTextColor": "#FFF",
-      "DarkTitleTextColor": "#000",
-      "LightTitleTextColor": "#FFF",
-      "DarkBackgroundColor": "#000",
-      "LightBackgroundColor": "#FFF",
-      "Appearance" : "dark",
-      "Accent1": "#FF3333",
-      "Accent2": "#333",
-      "Accent3": "#666",
-      "Accent4": "#999",
-      "Accent5": "#CCC",
-      "Accent6": "#EEE"
+      "Accent6": "#577590",
+      "LightBgGradient":[
+          "#FF08A1",
+          "#FF3852",
+          "#FF5A19"
+      ],
+  "DarkBgGradient":[
+          "#00C2FF",
+          "#03E1D4",
+          "#18C993"
+      ]
     }
   ]
 }
+
+
+
+
+

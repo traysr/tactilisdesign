@@ -1,23 +1,13 @@
 {
-  "Name": "Basel",
+  "Name": "LA",
   "Version": 0.1,
   "Author": "iA",
-  "ShortDescription": "Alles was geil isch...",
-  "LongDescription": "... isch verbote.\n- Different sizes for headlines\n- Simple color background\n- Default white on black\n- Default font: Noto Serif",
-  "Css": "basel.css",
-  "TitleFont": "Noto Serif",
-  "BodyFont": "Noto Serif",
+  "ShortDescription": "Back up, back up...",
+  "LongDescription": "...‘cause it’s on.\n- Loud, Bold, Freaky.\n- Colorful, dynamic, young\n- Dynamic color background\n- Default white on color\n- Default font: Roboto Slab",
+  "Css": "la.css",
+  "TitleFont": "Roboto Slab",
+  "BodyFont": "Roboto Slab",
   "CssClasses": "variable-size-headings",
-  "Layouts":[
-      {
-           "Name": "Cover",
-           "Classes": "invert",
-      },
-      {
-           "Name": "Title",
-           "Classes": "invert",
-      }
-   ],
   "LayoutExamples":[
    {
         "Name": "Title (H1) and Background",
